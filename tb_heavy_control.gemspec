@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.version     = TbHeavyControl::VERSION
   s.authors     = ['Roman Kolesnev', 'Anton Sokolov']
   s.email       = ['rvkolesnev@gmail.com', 'profox.rus@gmail.com']
-  s.homepage    = 'https://github.com/afuno/tb_heavy_control5647'
-  s.summary     = 'Trailblazer loader and integration for rails (without autoloading)'
+  s.homepage    = 'https://github.com/afuno/tb_heavy_control'
+  s.summary     = 'Trailblazer loader and integration for Rails (without autoloading)'
   s.description = 'Autoloading makes some things too difficult. I prefer prerequiring all thing which i need in order i want.'
   s.license     = 'MIT'
 
